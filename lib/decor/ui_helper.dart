@@ -1,0 +1,10 @@
+import 'package:flutter/cupertino.dart';
+
+/// SizedBox
+
+Widget mSpacer({double mHeight=11.00, double mWidth=11.00}){
+  return SizedBox(
+    width: mWidth,
+    height: mHeight,
+  );
+}

@@ -1,5 +1,7 @@
 import 'package:e_commerce_app/bottom_nav_bar/bottom_nav_page.dart';
+import 'package:e_commerce_app/bottom_nav_bar/nav_carts_pages/my_cart_page.dart';
 import 'package:e_commerce_app/bottom_nav_bar/nav_home_pages/item_view_page.dart';
+import 'package:e_commerce_app/rough_work.dart';
 import 'package:flutter/material.dart';
 
 import 'bottom_nav_bar/nav_home_pages/home_page.dart';
